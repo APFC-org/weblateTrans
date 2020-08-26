@@ -1,3 +1,5 @@
 {
-	"packmenu.realms": "Realms已关闭"
+    "packmenu": {
+        "realms": "【test】Realms已关闭"
+    }
 }
